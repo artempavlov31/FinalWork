@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PSU\\IT_IN_PA\\25BBB2\\5_PP\\LR9\\lab5_prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8082C-842F-490A-9821-BFFA93637761}|lab5_prog\\lab5_prog.vcxproj|F:\\PSU\\IT_IN_PA\\25BBB2\\5_PP\\LR9\\lab5_prog\\lab5_prog\\lab5_prog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AF8082C-842F-490A-9821-BFFA93637761}|lab5_prog\\lab5_prog.vcxproj|solutionrelative:lab5_prog\\lab5_prog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab5_prog.cpp",
+              "DocumentMoniker": "F:\\PSU\\IT_IN_PA\\25BBB2\\5_PP\\LR9\\lab5_prog\\lab5_prog\\lab5_prog.cpp",
+              "RelativeDocumentMoniker": "lab5_prog\\lab5_prog.cpp",
+              "ToolTip": "F:\\PSU\\IT_IN_PA\\25BBB2\\5_PP\\LR9\\lab5_prog\\lab5_prog\\lab5_prog.cpp",
+              "RelativeToolTip": "lab5_prog\\lab5_prog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-26T18:04:04.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
